@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/thorbenlestin/C-CPP-Vorlesung/vorlesung/tag3/02_insiList/02_insiList'
+relocations:     []
+...

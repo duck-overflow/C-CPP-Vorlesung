@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/thorbenlestin/C-CPP-Vorlesung/vorlesung/tag3/04_primzahl_verkettet/04_primzahl'
+relocations:     []
+...
